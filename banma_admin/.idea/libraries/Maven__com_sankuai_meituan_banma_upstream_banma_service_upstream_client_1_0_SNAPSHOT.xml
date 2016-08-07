@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.banma.upstream:banma_service_upstream_client:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/upstream/banma_service_upstream_client/1.0-SNAPSHOT/banma_service_upstream_client-1.0-20160719.085909-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/upstream/banma_service_upstream_client/1.0-SNAPSHOT/banma_service_upstream_client-1.0-20160719.085909-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/upstream/banma_service_upstream_client/1.0-SNAPSHOT/banma_service_upstream_client-1.0-20160719.085909-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

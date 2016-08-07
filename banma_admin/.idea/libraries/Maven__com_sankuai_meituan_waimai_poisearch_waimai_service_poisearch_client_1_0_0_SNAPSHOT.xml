@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.waimai.poisearch:waimai_service_poisearch_client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poisearch/waimai_service_poisearch_client/1.0.0-SNAPSHOT/waimai_service_poisearch_client-1.0.0-20160628.080607-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poisearch/waimai_service_poisearch_client/1.0.0-SNAPSHOT/waimai_service_poisearch_client-1.0.0-20160628.080607-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poisearch/waimai_service_poisearch_client/1.0.0-SNAPSHOT/waimai_service_poisearch_client-1.0.0-20160628.080607-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

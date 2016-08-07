@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.banma.rider.admin:banma_service_rider_admin_client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/rider/admin/banma_service_rider_admin_client/1.0.0-SNAPSHOT/banma_service_rider_admin_client-1.0.0-20160802.041441-54.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/rider/admin/banma_service_rider_admin_client/1.0.0-SNAPSHOT/banma_service_rider_admin_client-1.0.0-20160802.041441-54-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/rider/admin/banma_service_rider_admin_client/1.0.0-SNAPSHOT/banma_service_rider_admin_client-1.0.0-20160802.041441-54-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

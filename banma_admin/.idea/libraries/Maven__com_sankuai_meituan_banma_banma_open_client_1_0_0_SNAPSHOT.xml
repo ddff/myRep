@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.banma:banma_open_client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/banma_open_client/1.0.0-SNAPSHOT/banma_open_client-1.0.0-20160725.133408-58.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/banma_open_client/1.0.0-SNAPSHOT/banma_open_client-1.0.0-20160725.133408-58-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/banma/banma_open_client/1.0.0-SNAPSHOT/banma_open_client-1.0.0-20160725.133408-58-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

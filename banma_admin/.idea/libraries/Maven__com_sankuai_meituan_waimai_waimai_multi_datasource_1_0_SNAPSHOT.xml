@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.waimai:waimai_multi_datasource:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/waimai_multi_datasource/1.0-SNAPSHOT/waimai_multi_datasource-1.0-20160630.063000-32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/waimai_multi_datasource/1.0-SNAPSHOT/waimai_multi_datasource-1.0-20160630.063000-32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/waimai_multi_datasource/1.0-SNAPSHOT/waimai_multi_datasource-1.0-20160630.063000-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

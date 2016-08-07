@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sankuai.meituan.waimai.poi:waimai_service_poiquery_client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poi/waimai_service_poiquery_client/1.0.0-SNAPSHOT/waimai_service_poiquery_client-1.0.0-20160712.104524-30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poi/waimai_service_poiquery_client/1.0.0-SNAPSHOT/waimai_service_poiquery_client-1.0.0-20160712.104524-30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sankuai/meituan/waimai/poi/waimai_service_poiquery_client/1.0.0-SNAPSHOT/waimai_service_poiquery_client-1.0.0-20160712.104524-30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
